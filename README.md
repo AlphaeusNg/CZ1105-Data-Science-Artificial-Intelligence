@@ -1,3 +1,6 @@
+datasets file contains the datasets used for the exploratory analysis and linear regression model.\n
+There are one .py file and one .ipynb file, they are the same. Just in different format.
+
 # CZ1105-Data-Science-Artificial-Intelligence
 A DSAI project from the NTU module CZ1105 titled "Are we able to predict stock prices (from different industries) using Covid-19 variables?”.
 
