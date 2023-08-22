@@ -5,9 +5,9 @@ There are one .py file and one .ipynb file, they are the same. Just in different
 A DSAI project from the NTU module CZ1105 titled "Are we able to predict stock prices (from different industries) using Covid-19 variables?”.
 
 Used Alpha Vantage API to call stock market prices where we store it into excel files.
-Used Covic Tracking API to call covid dataset where we also store it into excel files.
+Used Covid Tracking API to call covid dataset where we also store it into excel files.
 
-Used Scikit-learn API to build a univariate and multivariate linear regression model to test our prediction accuracy.
+Used Scikit-learn library to build a univariate and multivariate linear regression model to test our prediction accuracy.
 Used NumPy, Seaborn, Matplotlib to clean, organise, display our data.
 
 # Background
